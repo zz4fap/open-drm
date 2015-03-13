@@ -1,0 +1,3 @@
+Digital Radio Mondiale (DRM) is a set of digital audio broadcasting technologies (standards) designed to work over the bands currently used for AM broadcasting, particularly shortwave. DRM can fit more channels than AM, at higher quality, into a given amount of bandwidth, using various MPEG-4 codecs.
+
+The modulation used for DRM is coded orthogonal frequency division multiplexing (COFDM), where every carrier is modulated with quadrature amplitude modulation (QAM) with a selectable error coding.
